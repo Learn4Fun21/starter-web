@@ -17,4 +17,4 @@ This is a simple web project, deployment can be on any web server or even local 
 
 ### Copyright
 
-2021 MyOwnThing
+2021 MyOwnThing Part2
