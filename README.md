@@ -19,4 +19,4 @@ Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright
 
-2021 MyOwnThing Part2
+2021 MyOwnThing Part2. All rights reserved
